@@ -10,6 +10,7 @@ function run() {
   });
 
   console.log(arr);
+  console.log(typeof arr);
 }
 
 run();
