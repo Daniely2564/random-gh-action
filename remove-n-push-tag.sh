@@ -1,4 +1,3 @@
-npm run build
 git add .
 git commit -m "update v1"
 git tag -d v1
