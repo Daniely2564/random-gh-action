@@ -4,10 +4,7 @@ inputs:
   arr:
     required: true
     description: array of items
-    default:
-      - A
-      - B
-      - C
+    default: A
 runs:
   using: "node16"
   main: "index.js"
